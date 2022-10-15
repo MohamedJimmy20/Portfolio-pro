@@ -1,7 +1,7 @@
 import React from 'react'
 import './home.css'
 
-import Typical from 'react-typical'
+// import Typical from 'react-typical'
 
 
 
@@ -35,9 +35,9 @@ export default function Home() {
         <div className="home__data">
           <h1 className='home__title'> Mohamed Gamal</h1>
 
-          <h3 className="home__subtitle"> 
+          <h3 className="home__subtitle"> FullStack Web Developer
                      
-          {" "}
+          {/* {" "}
           <Typical 
           loop={Infinity}
           steps={[
@@ -49,7 +49,7 @@ export default function Home() {
             2000,
             "NodeJs Developer",
             2000,
-          ]}></Typical>
+          ]}></Typical> */}
 
         
           </h3>

@@ -25,7 +25,7 @@
     margin-bottom: var(--mb-0-25);
 }
 
-.home__subtitle {
+.home__subtitle {   
     position: relative;
     font-size: var(--h3-font-size);
     padding-left: 5.4rem;
