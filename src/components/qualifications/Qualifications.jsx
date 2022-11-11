@@ -80,7 +80,7 @@ export default function Qualification() {
                         
 
                     <div>
-                    <h3 className="qualification__title">Full JavaScript Course</h3>
+                    <h3 className="qualification__title">FullStack JavaScript Course</h3>
                             <span className="qualification__subtitle">Udemy.com</span>
                             
                             <div className="qualification__calender">
